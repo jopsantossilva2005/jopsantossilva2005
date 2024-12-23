@@ -8,4 +8,4 @@
 ## Tecnologias
 ![JAVA](https://img.shields.io/badge/JAVA-f06611?style=flat&badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-C71D23?style=flat&badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/GITHUB-%23121011?style=flat&badge&logo=github&logoColor=white)hite)
+![SQL](https://img.shields.io/badge/GITHUB-%23121011?style=flat&badge&logo=github&logoColor=white)
