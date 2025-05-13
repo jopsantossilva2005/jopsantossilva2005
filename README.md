@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/jpsantossilva2024@gmail.com-4169e1?style=flat&logo=gmail&logoColor=white)](mailto:jpsantossilva2024@gmail.com?subject=Contato%20via%20GitHub)
 
 ## Meu nome é João Pedro
-(Java | Spring Boot | Angular | Python | JavaScript | HTML | CSS)
+(Java | Spring Boot | SQL | Angular | Python | JavaScript | HTML | CSS)
 - 👩‍💻 Desenvolvedor Backend
 - 📖 Universitário (UNIVESP)
 - ❤️ Apaixonado por programação
