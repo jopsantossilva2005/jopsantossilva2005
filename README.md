@@ -8,6 +8,6 @@
 - 📖 Universitário (UNIVESP)
 - ❤️ Apaixonado por programação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jopsantossilva2005&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000)
 
 
