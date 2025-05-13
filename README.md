@@ -1,11 +1,13 @@
-# Olá! Eu sou o João Pedro👋
+# Olá!👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169e1?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jo%C3%A3o-pedro-828869321/)
+[![Gmail](https://img.shields.io/badge/jpsantossilva2024@gmail.com-4169e1?style=flat&logo=gmail&logoColor=white)](mailto:jpsantossilva2024@gmail.com?subject=Contato%20via%20GitHub)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-santos-silva-828869321/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](jpsantossilva2024@gmail.com)
+## Meu nome é João Pedro
+(Java | Spring Boot | Angular | Python | JavaScript | HTML | CSS)
+- 👩‍💻 Desenvolvedor Backend
+- 📖 Universitário (UNIVESP)
+- ❤️ Apaixonado por programação
 
-![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=jopsantossilva2005&show_icons=true&theme=transparent&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000)
 
-## Tecnologias
-![JAVA](https://img.shields.io/badge/JAVA-f06611?style=flat&badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-C71D23?style=flat&badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/GITHUB-%23121011?style=flat&badge&logo=github&logoColor=white)
+
